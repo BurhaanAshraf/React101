@@ -1,0 +1,22 @@
+Q1: What is Emmet ?
+Ans1: Emmet is a shortcut tool in code editors that help us write code faster by expanding small abbrevations into full code
+
+Q2: What is CDN and why do we use it ?
+Ans2: CDN (Content Delivery Network) is a network of servers placed in different locations that delivers website content to users from nearest server
+We use CDN to make websites load faster , reduces server load and improve readibility.
+
+Q3: Why is React Known as React ?
+Ans3: It is called the react because when the application's state or data changes , React reacts by efficiently updating only the required parts of User Interface.
+
+Q4: What is CrossOrigin and why do we use it ?
+Ans4: CrossOrigin is a attribute used to control how a browser handles request of resources coming from another origin.
+We use it to safely load or share resources (like scripts , images , APIs) while following Browser Security Rules (CORS).
+In Simpler Words, CrossOrigin tells the browser how to handle cross-domain requests and whether credentials or shared access is allowed.
+(CORS) CrossOrigin Resource Sharing is a browser security mechanism which determines which websites are allowed to access resources from another website
+CORS decides whether a cross website request is allowed or blocked by the browser.
+
+Q5: What is difference between React and ReactDOM ?
+Ans5: React is a core library used to build UI components are manage state , while ReactDOM is responsible for rendering those React components into the browser DOM.
+
+Q6: - What is difference between `react.development.js` and `react.production.js` files via CDN?
+react development  helps developers build and debug with helpful warnings and is usually bigger in size while react production is optimised for performance and users in production and is smaller in size.
