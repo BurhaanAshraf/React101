@@ -1,0 +1,26 @@
+{
+  "name": "learningreact",
+  "version": "1.0.0",
+  "description": "Build strong React fundamentals and gradually move towards production-ready apps.",
+  "homepage": "https://github.com/BurhaanAshraf/LearningReact#readme",
+  "bugs": {
+    "url": "https://github.com/BurhaanAshraf/LearningReact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurhaanAshraf/LearningReact.git"
+  },
+  "license": "ISC",
+  "author": "Burhaan Ashraf",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
