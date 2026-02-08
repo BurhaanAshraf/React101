@@ -1,0 +1,15 @@
+#child1 {
+  background-color: lightblue;
+}
+#c1h1,
+#c1h2 {
+  color: purple;
+}
+
+#child2 {
+  background-color: lightcoral;
+}
+#c2h3,
+#c2h4 {
+  color: gray;
+}
